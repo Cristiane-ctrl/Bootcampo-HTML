@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&family=Rajdhani:wght@400;600;700&family=Roboto&display=swap" rel="stylesheet">
+    <title>Desafio de Projeto</title>
+  </head>
+  <body>
+    <i><h1 style="color: darkorchid">O Mentalista</h1></i>
+
+    <hr>
+    <p>O Mentalista foi um seriado policial  <del>americano</del> <ins>norte americano</ins> produzido e exibido pela primeira vez através da emissora CBS em 23 de setembro de 2008. O enredo conta a historia de Patrick Jane interpretado pelo ator australiano Simon Baker, que possui um talento incomum: observar tudo em seus detalhes e com suas habilidades de dedução e observação Jane trabalha como consultor na Agencia de Investigação da California, onde ajuda a resolver os casos mais intrigantes. No Brasil o seriado foi exibido pelo canal a cabo Warner Channel e reprisada pelo canal aberto SBT. </p>
+
+    <i><h1 style="color: darkorchid">Elenco e personagens</h1></i>
+    <ol>
+        <strong><li>Patrick Jane</li></strong>
+        <li>Teresa Lisbon</li>
+        <li>Kimball Cho</li>
+        <li>Wayne Rigsby</li>
+        <li>Grace Van Pelt</li>
+        <li>Red John</li>
+    </ol>
+
+    <h2>Patrick Jane</h2>
+    <img src="https://mixdeseries.com.br/wp-content/uploads/2022/03/Ator-the-mentalist.webp" alt="SImon Baker vive Patrick Jane" width="500px">
+    <h3 style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">O protagonista ganhava a vida como vidente, mas apos um serial killer intitulado <mark>Red Jonh</mark> ter assassinado sua esposa e filha como vingança por ter sido ridicularizado em um programa de TV por Jane, o mesmo acaba admitindo que era uma fraude. Trabalhando como consultar para a CBI, <u>Jane procura vingança durante toda a serie.</u></h3>
+    <h2>Teresa Lisbon</h2>
+    <img src="https://br.web.img2.acsta.net/r_1280_720/pictures/15/01/21/15/01/457902.jpg" alt="Robin Tunney vive Teresa Lisbon" width="500px">
+    <h3>Embora Patrick às vezes a irrite com o seu comportamento anormal e arrogante, ela o vê como um membro valioso para a equipa e vai apoiá-lo em algumas das suas teorias mais inusitadas. A sua mãe morreu num acidente de carro, no qual o outro motorista estava bêbado. Lisbon ficou cuidando dos seus três irmãos e do seu pai, que tornou-se alcoólatra após a morte da esposa. A sua equipa foi responsável pelo caso Red John, até ao agente Sam Bosco tornar-se o diretor do novo Serial Crimes Unit, que assumiu a responsabilidade pela captura de Red John.</h3>
+    <h2>Kimball Cho</h2>
+    <img src="https://i.pinimg.com/originals/84/8c/29/848c29fb28008ba1c8d7595117ffb0c7.jpg" alt="Robin Tunney vive Teresa Lisbon" width="500px">
+    <h3>Muitas vezes retratado como mão direita de Jane, parece ser o mais próximo dele, muitas vezes pedindo ajuda para encontrar provas, apesar de ele não ficar irritado com o hábito de Jane de não lhe dizer tudo o que sabe sobre o caso. Cho tem um senso de humor seco. Provavelmente o mais prático e realista do grupo, ele é muitas vezes o único que vê os truques de Jane. Quando Jane diz à Van Pelt que ele estava movendo um palito com telecinese, Cho diz simplesmente: "Ele está soprando sobre ele." Ele esteve no reformatório antes de servir nas forças armadas e, em seguida, a adesão à CBI. Ele foi secretamente chamado "Ernie" pela equipe de Bosco, que também se refere à Rigsby como "Bert". Ele estava em um grupo chamado Avon Park Playboys antes de ser um policial.</h3>
+    <h2>Grace Van Pelt</h2>
+    <img src="https://i.pinimg.com/originals/95/c2/60/95c260f64d132846f64df046cd2c756a.jpg" alt="" width="500px">
+    <h3>A mais nova membro da CBI, muitas vezes fazendo a pesquisa para outros membros. Ela tem uma profunda crença na religião e discute com Patrick toda vez que ele rejeita ou faz algo que ela considera como moralmente ou religiosamente inadequado. Van Pelt envolveu-se secretamente com Rigsby, depois de meses de relutância, devido à regulamentação que proíbe relações amorosas entre os agentes. Ela é muito rigorosa, organizada (Jane deduz durante a primeira temporada que isso acontece porque ela está escondendo algum trauma emocional profundo) e um pouco tensa, mas, em geral, é uma adição muito valiosa para a equipe. Van Pelt na quarta temporada declara todo o seu amor por Rigsby e ao mesmo tempo chora por não poder manter seu relacionamento por serem colegas de profissão.</h3>
+    <h2>Wayne Rigsby</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/en/1/11/Wayne_Rigsby.jpg" alt="" width="500px">
+    <h3> especialista em incêndios criminosos, ele desenvolve fortes sentimentos por Grace Van Pelt e tende a ser superprotetor com ela. Ele inicialmente não falava sobre eles, como o romance entre os agentes é contra os regulamentos, mas os dois aceitaram seus sentimentos e passaram a ver um ao outro secretamente. Ele é um bom amigo de Jane, no entanto, como os outros, muitas vezes é aborrecido por ele. Ele tem uma boa amizade com Cho. Seu pai pertencia a uma gangue de motociclistas, o que o levou a desenvolver aversão a esse tipo de grupo.</h3>
+    <h2>Red Jonh</h2>
+    <img src="https://popseries.com.br/wp-content/uploads/2020/06/the-mentalist.jpg" alt="" width="500px">
+    <h3>O antagonista invisível da série. Ele sempre se certifica de que sua marca registrada, o rosto sorridente desenhado com o sangue da vítima, seja a primeira coisa que se veja diante de uma vítima morta por ele. Depois que Jane zombou de Red John em um talk show, ele o retaliou matando a esposa e a filha de Jane. Embora apenas focado em três vezes durante a primeira temporada, ele é muito inteligente. Até o final da terceira temporada, ele era conhecido por seus cúmplices. No entanto, afirma Jane, Red John não tem parceiros, mas ferramentas. Os episódios em que Red John está envolvido tornaram-se mais e mais frequentes com a obsessão de Jane para capturá-lo e <small>matá-lo</small>.</h3>
+
+    <i><h1 style="color: darkviolet;"> No total o seriado teve 7 temporadas</h1></i>
+
+
+    <h5> <ul>
+      <li>1 temporada - 23 de setembro de 2008 </li>
+      <li>2 temporada - 24 de setembro de 2009</li>
+      <li>3 temporada - 23 de setembro de 2010</li>
+      <li>4 temporada - 22 de setembro de 2011</li>
+      <li>5 temporada - 30 de setembro de 2012</li>
+      <li>6 temporada - 29 de setembro de 2013 <sup><a href="http://www.cbsnews.com/8301-207_162-57589673/cbs-announces-2013-2014-premiere-dates" >[1]</a></sup></li>
+      <li>7 temporada - 30 de novembro de 2014</li>
+    </ul></h5>
+   
+
+    <h4><abbr title="Frase">Frase</abbr></h4>
+    <blockquote cite="https://www.pensador.com/autor/the_mentalist/"> A certeza é a mãe dos tolos.
+
+      <h6>(Patrick Jane)</h6></blockquote>
+</html>
+
